@@ -6,7 +6,7 @@ The main reason for this repo is simple way to startup Kafka in a local dev env 
 NOTE: 
 I am running the edge version of Docker. I read that you don't need the edge version anymore to run Docker in Kubernetes but if some of the following instructions don't match that is why.
 
-### Prerequisits
+### Prerequisites
 1. Docker
 2. Kubctl (brew install kubctl)
 3. Kafka tools (brew install Kafka -- don't start Kafka once the tools are installed).
